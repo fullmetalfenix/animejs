@@ -4,6 +4,9 @@ body{
 .anime-container{
     position: relative;
 }
+/* 2. "The position settings are necessary so that we can later 
+position the particles freely on the page using the CSS 
+properties left and top." - from the article menitoned in the index header*/
 .anime-container .dot{
     position: absolute;
     /*dots*/
